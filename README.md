@@ -158,6 +158,15 @@ I enjoy working in **dynamic, challenging environments** and focus on **innovati
 
 ---
 
+## 🗣️ Languages
+
+![Turkish](https://img.shields.io/badge/Turkish-Very%20Good-4CAF50?style=for-the-badge)
+![French](https://img.shields.io/badge/French-Very%20Good-4CAF50?style=for-the-badge)
+![Arabic](https://img.shields.io/badge/Arabic-Good-8BC34A?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Intermediate-FFC107?style=for-the-badge)
+
+---
+
 ## 📬 Contact
 
 <p align="center">
