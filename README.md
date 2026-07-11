@@ -143,8 +143,19 @@ I enjoy working in **dynamic, challenging environments** and focus on **innovati
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Amir-hissein&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-hissein&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="160" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Amir-hissein&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Amir hissein's GitHub Stats" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-hissein&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<br/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Amir-hissein&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Amir-hissein&label=Profile%20Views&color=FF6B6B&style=for-the-badge)
 
 </div>
 
@@ -152,9 +163,10 @@ I enjoy working in **dynamic, challenging environments** and focus on **innovati
 
 ## 🎯 Current Focus
 
-- 🔬 Building **production-grade RAG systems** with grounded, citable answers.
+- 🌐 Building **modern web & cross-platform mobile apps** with **React**, **Vite** and **React Native / Expo**.
+- 🤖 Designing **production-grade AI systems** — RAG assistants and NLP pipelines with grounded, citable answers.
 - 🧠 Deepening my expertise in **LLMs**, **NLP** and **Deep Learning**.
-- 🚀 Deploying ML models as robust **APIs** and integrating them into real applications.
+- 🚀 Deploying models and applications as robust **APIs** and shipping real products at **TOBEESOFT**.
 
 ---
 
