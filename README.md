@@ -39,6 +39,8 @@ Currently building AI solutions at **[TOBEESOFT](https://www.tobeesoft.com/)** �
 
 ## 🚀 Featured Projects
 
+### 🧠 AI & Machine Learning
+
 - **🇹🇩 Chad Constitution RAG Assistant** — `chad_constitution_RAG_AI`
   🧠 A RAG assistant that answers questions about the **Constitution of Chad**, grounded in the official text with **article-level citations**.
   🛠 Python, LangChain, ChromaDB, BGE-M3, Ollama (Llama 3.1)
@@ -53,6 +55,28 @@ Currently building AI solutions at **[TOBEESOFT](https://www.tobeesoft.com/)** �
   🤖 An AI-driven tool for **recruitment and CV/résumé evaluation**, automating candidate screening.
   🛠 AI, LLM, JSON workflows
   🔗 [GitHub Repo](https://github.com/Amir-hissein/HR_AI)
+
+### 🌐 Web & Mobile Applications
+
+- **🏢 TOBEESOFT — Corporate Website** — `tobeesoftrepos`
+  💼 Modern, high-performance corporate website for **TOBEESOFT**, a custom software development & digital transformation company. Multilingual (FR/EN), glassmorphism UI and smooth animations, with an integrated contact form.
+  🛠 React 19, Vite 7, Tailwind CSS, Framer Motion, EmailJS
+  🔗 [GitHub Repo](https://github.com/Amir-hissein/tobeesoftrepos) · 🌐 [Live Demo](https://tobeesoftrepos.vercel.app)
+
+- **🚚 OYO GROUP — Logistics Website** — `oyogroup-repos`
+  🌍 Official website for **OYO GROUP**, an international logistics company specialized in freight transport between **China and Chad**. Multilingual (FR/AR/EN), fully responsive, with WhatsApp integration and a validated contact form.
+  🛠 React, Vite, Tailwind CSS
+  🔗 [GitHub Repo](https://github.com/Amir-hissein/oyogroup-repos) · 🌐 [Live Demo](https://oyogroup.vercel.app)
+
+- **🏠 TD Immobilier — Real Estate App** — `immobTD-repos`
+  📱 Cross-platform mobile app for the **Chadian real estate market**: sellers list land, houses, apartments and businesses while buyers search with advanced filters across **23 provinces**, prices in **FCFA**, favorites and messaging.
+  🛠 React Native, Expo, React Navigation, AsyncStorage
+  🔗 [GitHub Repo](https://github.com/Amir-hissein/immobTD-repos)
+
+- **🥗 Fridos — Nutrition & Shopping List App** — `fridos_depos`
+  📲 Mobile application for **nutrition tracking and smart shopping lists**, built with a modern cross-platform stack.
+  🛠 TypeScript, React Native, Expo
+  🔗 [GitHub Repo](https://github.com/Amir-hissein/fridos_depos)
 
 - **🌐 Toumai Web App** — `toumai-repos`
   ⚛️ A modern web application built with **React + Vite**, deployed on Vercel.
