@@ -20,20 +20,21 @@ Currently building AI solutions at **[TOBEESOFT](https://www.tobeesoft.com/)** �
 
 ## 🧪 What I Do
 
+### 🌐 Web & Mobile Development
+- ⚛️ Building **modern, responsive web applications** with **React**, **Vite** and **Tailwind CSS** — from corporate websites to full product interfaces.
+- 📱 Developing **cross-platform mobile apps** with **React Native** and **Expo**, delivering native-quality experiences on iOS and Android.
+- 🌍 Shipping **multilingual, production-ready products** with clean UI/UX, animations and integrated contact/messaging features.
+
+### ⚙️ Backend & APIs
+- 🛠 Designing and building **REST APIs** with **Node.js / Express** and **FastAPI**.
+- 🗄️ Modeling and managing data with **SQL Server**, **MongoDB**, **Firebase** and **Supabase**.
+- 🐳 Containerizing and deploying services with **Docker**, and automating delivery with **Git** & **CI/CD**.
+
 ### 🧠 Artificial Intelligence & NLP
 - 🔎 **Retrieval-Augmented Generation (RAG)** — building assistants grounded in official documents with article-level citations, using **LangChain**, **ChromaDB**, **BGE-M3** embeddings and **Ollama (Llama 3.1)**.
-- 💬 **Natural Language Processing** — sentiment analysis, text classification and end-to-end NLP pipelines.
-- 🤖 **Deep Learning** — training and evaluating neural models for real-world text tasks.
+- 💬 **Natural Language Processing & Deep Learning** — sentiment analysis, text classification and end-to-end NLP pipelines served through **FastAPI**.
 - 📄 **Applied AI** — CV/résumé evaluation and HR automation powered by LLMs.
-
-### ⚙️ Backend & Deployment
-- 🚀 Building and serving models through **FastAPI** REST APIs.
 - 🐍 Full **Python** ML workflow: EDA → feature engineering → training → evaluation → deployment.
-- 🧩 Integrating models with vector databases and local LLM runtimes.
-
-### 🌐 Web & Full-Stack
-- ⚛️ Developing modern web interfaces with **React** and **Vite**.
-- 🔗 Connecting AI backends to responsive front-end applications.
 
 ---
 
