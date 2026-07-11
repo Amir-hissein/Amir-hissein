@@ -179,7 +179,7 @@ I enjoy working in **dynamic, challenging environments** and focus on **innovati
 
 <p align="center">
   <a href="mailto:amirhisseinabakar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-amsoueco@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-amirhisseinabakar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/Amir-hissein">
     <img src="https://img.shields.io/badge/GitHub-Amir--hissein-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
