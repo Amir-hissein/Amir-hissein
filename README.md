@@ -10,11 +10,11 @@
 
 ### Software Developer | AI & ML Engineering
 
-I'm a developer passionate about **Artificial Intelligence**, **Natural Language Processing (NLP)** and **Machine Learning / Deep Learning**. I design and build intelligent systems that turn raw data and language into useful, reliable products — from **RAG assistants** and **sentiment-analysis pipelines** to **AI-powered recruitment tools**.
+I'm a **Software Developer** and **AI / ML Engineer** who builds complete digital products — from **modern web & cross-platform mobile applications** to **intelligent AI systems**. I turn ideas, raw data and language into useful, reliable software that ships and scales — think **RAG assistants**, **NLP pipelines**, **corporate websites** and **mobile marketplaces**.
 
-I care about **clean, readable code**, **solid system architecture**, and shipping end-to-end solutions — from data exploration and model training to production-ready **APIs** and **web interfaces**.
+I care about **clean, readable code**, **solid architecture** and **great user experience**, delivering end-to-end solutions — from front-end interfaces and REST APIs to model training and production deployment.
 
-Currently building AI solutions at **[TOBEESOFT](https://www.tobeesoft.com/)** 🚀
+🚀 Currently building web, mobile and AI solutions at **[TOBEESOFT](https://www.tobeesoft.com/)**.
 
 ---
 
