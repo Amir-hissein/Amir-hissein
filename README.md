@@ -39,23 +39,6 @@ Currently building AI solutions at **[TOBEESOFT](https://www.tobeesoft.com/)** �
 
 ## 🚀 Featured Projects
 
-### 🧠 AI & Machine Learning
-
-- **🇹🇩 Chad Constitution RAG Assistant** — `chad_constitution_RAG_AI`
-  🧠 A RAG assistant that answers questions about the **Constitution of Chad**, grounded in the official text with **article-level citations**.
-  🛠 Python, LangChain, ChromaDB, BGE-M3, Ollama (Llama 3.1)
-  🔗 [GitHub Repo](https://github.com/Amir-hissein/chad_constitution_RAG_AI)
-
-- **💬 Sentiment Analysis — NLP + Deep Learning** — `analysis_feelings_NLP_DL`
-  📊 End-to-end sentiment analysis on the **IMDB** dataset — from EDA to a deployed **FastAPI** service. A complete learning project covering the full ML lifecycle.
-  🛠 Python, NLP, Deep Learning, FastAPI
-  🔗 [GitHub Repo](https://github.com/Amir-hissein/analysis_feelings_NLP_DL)
-
-- **📄 HR AI — CV Evaluation** — `HR_AI`
-  🤖 An AI-driven tool for **recruitment and CV/résumé evaluation**, automating candidate screening.
-  🛠 AI, LLM, JSON workflows
-  🔗 [GitHub Repo](https://github.com/Amir-hissein/HR_AI)
-
 ### 🌐 Web & Mobile Applications
 
 - **🏢 TOBEESOFT — Corporate Website** — `tobeesoftrepos`
@@ -82,6 +65,25 @@ Currently building AI solutions at **[TOBEESOFT](https://www.tobeesoft.com/)** �
   ⚛️ A modern web application built with **React + Vite**, deployed on Vercel.
   🛠 JavaScript, React, Vite, CSS
   🔗 [GitHub Repo](https://github.com/Amir-hissein/toumai-repos)
+
+
+### 🧠 AI & Machine Learning
+
+- **🇹🇩 Chad Constitution RAG Assistant** — `chad_constitution_RAG_AI`
+  🧠 A RAG assistant that answers questions about the **Constitution of Chad**, grounded in the official text with **article-level citations**.
+  🛠 Python, LangChain, ChromaDB, BGE-M3, Ollama (Llama 3.1)
+  🔗 [GitHub Repo](https://github.com/Amir-hissein/chad_constitution_RAG_AI)
+
+- **💬 Sentiment Analysis — NLP + Deep Learning** — `analysis_feelings_NLP_DL`
+  📊 End-to-end sentiment analysis on the **IMDB** dataset — from EDA to a deployed **FastAPI** service. A complete learning project covering the full ML lifecycle.
+  🛠 Python, NLP, Deep Learning, FastAPI
+  🔗 [GitHub Repo](https://github.com/Amir-hissein/analysis_feelings_NLP_DL)
+
+- **📄 HR AI — CV Evaluation** — `HR_AI`
+  🤖 An AI-driven tool for **recruitment and CV/résumé evaluation**, automating candidate screening.
+  🛠 AI, LLM, JSON workflows
+  🔗 [GitHub Repo](https://github.com/Amir-hissein/HR_AI)
+
 
 ---
 
