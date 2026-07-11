@@ -66,7 +66,8 @@ I care about **clean, readable code**, **solid architecture** and **great user e
 - **🌐 Toumai Web App** — `toumai-repos`
   ⚛️ A modern web application built with **React + Vite**, deployed on Vercel.
   🛠 JavaScript, React, Vite, CSS
-  🔗 [GitHub Repo](https://github.com/Amir-hissein/toumai-repos)
+  🔗 [GitHub Repo](https://github.com/Amir-hissein/toumai-repos)  · 🌐 [Live]( https://www.toumaiedu.com/)
+
 
 
 ### 🧠 AI & Machine Learning
