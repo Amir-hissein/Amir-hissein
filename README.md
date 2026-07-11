@@ -18,7 +18,7 @@ I care about **clean, readable code**, **solid architecture** and **great user e
 
 ---
 
-## 🧪 What I Do
+## What I Do
 
 ### 🌐 Web & Mobile Development
 - ⚛️ Building **modern, responsive web applications** with **React**, **Vite** and **Tailwind CSS** — from corporate websites to full product interfaces.
