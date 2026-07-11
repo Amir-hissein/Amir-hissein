@@ -14,7 +14,7 @@ I'm a developer passionate about **Artificial Intelligence**, **Natural Language
 
 I care about **clean, readable code**, **solid system architecture**, and shipping end-to-end solutions — from data exploration and model training to production-ready **APIs** and **web interfaces**.
 
-Currently building AI solutions at **TOBEESOFT** 🚀
+Currently building AI solutions at **[TOBEESOFT](https://www.tobeesoft.com/)** 🚀
 
 ---
 
