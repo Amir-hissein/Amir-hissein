@@ -46,12 +46,12 @@ I care about **clean, readable code**, **solid architecture** and **great user e
 - **🏢 TOBEESOFT — Corporate Website** — `tobeesoftrepos`
   💼 Modern, high-performance corporate website for **TOBEESOFT**, a custom software development & digital transformation company. Multilingual (FR/EN), glassmorphism UI and smooth animations, with an integrated contact form.
   🛠 React 19, Vite 7, Tailwind CSS, Framer Motion, EmailJS
-  🔗 [GitHub Repo](https://github.com/Amir-hissein/tobeesoftrepos) · 🌐 [Live Demo](https://tobeesoftrepos.vercel.app)
+  🔗 [GitHub Repo](https://github.com/Amir-hissein/tobeesoftrepos) · 🌐 [Live](https://www.tobeesoft.com/)
 
 - **🚚 OYO GROUP — Logistics Website** — `oyogroup-repos`
   🌍 Official website for **OYO GROUP**, an international logistics company specialized in freight transport between **China and Chad**. Multilingual (FR/AR/EN), fully responsive, with WhatsApp integration and a validated contact form.
   🛠 React, Vite, Tailwind CSS
-  🔗 [GitHub Repo](https://github.com/Amir-hissein/oyogroup-repos) · 🌐 [Live Demo](https://oyogroup.vercel.app)
+  🔗 [GitHub Repo](https://github.com/Amir-hissein/oyogroup-repos) · 🌐 [Live](https://oyogroupe.com/)
 
 - **🏠 TD Immobilier — Real Estate App** — `immobTD-repos`
   📱 Cross-platform mobile app for the **Chadian real estate market**: sellers list land, houses, apartments and businesses while buyers search with advanced filters across **23 provinces**, prices in **FCFA**, favorites and messaging.
