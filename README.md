@@ -191,5 +191,5 @@ I enjoy working in **dynamic, challenging environments** and focus on **innovati
 <div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient)
-
+"innovation is not a promise, it's a discipline that transforms vision into results." Amir Hissein
 </div>
