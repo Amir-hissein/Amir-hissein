@@ -6,7 +6,7 @@
 
 ---
 
-# 👋 Hi, I'm Amir Hissein!
+# 👋 Hi, I'm Amir!
 
 
 
