@@ -14,8 +14,6 @@ I'm a **Software Developer** and **AI / ML Engineer** who builds complete digita
 
 I care about **clean, readable code**, **solid architecture** and **great user experience**, delivering end-to-end solutions — from front-end interfaces and REST APIs to model training and production deployment.
 
-🚀 Currently building web, mobile and AI solutions at **[TOBEESOFT](https://www.tobeesoft.com/)**.
-
 ---
 
 ## What I Do
